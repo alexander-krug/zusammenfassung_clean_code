@@ -23,7 +23,7 @@ _____________________________________
 5. Vermeide logische Abhängigkeiten. Schreib keine Methoden, deren korrekte Funktion von etwas anderem in derselben Klasse abhängt.
 6. Vermeide negative Konditionale.
 
-## Namensregeln
+## Regeln für Namen
 1. Wähle beschreibende und eindeutige Namen.
 2. Mache eine sinnvolle Unterscheidung.
 3. Verwende aussprechbare Namen.
@@ -39,7 +39,7 @@ _____________________________________
 5. Funktionen sollen keine Nebenwirkungen haben.
 6. Verwende keine Flag-Argumente. Teile Methoden in mehrere unabhängige Methoden auf, die ohne Flags aufgerufen werden können.
 
-## Kommentare Regeln
+## Regeln für Kommentare
 1. Versuche immer, dich im Code zu erklären.
 2. Sei nicht redundant.
 3. Füge nichts offensichtliches hinzu.
